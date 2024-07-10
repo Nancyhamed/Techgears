@@ -1,0 +1,28 @@
+header{
+    background-image: linear-gradient(180deg,#c4b6fd,#93acfc);
+}
+.btn-blue{
+    color: #0a58ca;
+}
+.icons{
+    width: 32px;
+    height: 32px;
+    color: #0a58ca;
+    margin-bottom: 17px;
+    background-color: aliceblue;
+}
+.btn-primary{
+    background-color: #0a58ca;
+    border: none;
+}
+.btn-primary:hover{
+    background-color: #0d6efd;
+}
+.nav-tabs{
+    border: none;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: white;
+    background-color: #0a58ca;
+    border: none;
+}
